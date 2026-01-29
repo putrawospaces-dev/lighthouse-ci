@@ -14,5 +14,4 @@ jobs:
           urls: |
             https://bigfishdiving.com/
           runs: 1
-          uploadArtifacts: true
           temporaryPublicStorage: true
